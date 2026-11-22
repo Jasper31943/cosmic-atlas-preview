@@ -25,7 +25,7 @@
 | 網站圖示 | `public/favicon.ico` | 本專案程式繪製 | — | 原創 | — | — |
 
 ### 場景說明
-- 雨林場景沒有 360° 全景：美術確認沒有授權可用的亞馬遜 360° 照片，改用兩張真實林下照片當背景（旱地林＝塔帕若斯，淹水林＝伊蘭杜巴）。兩張都不是拍到動物的照片；動物立牌是各物種自己的野外照片（拍攝地見上表），擺放位置與顯示大小為示意。
+- 雨林場景沒有 360° 全景：美術確認沒有授權可用的亞馬遜 360° 照片，改用兩張真實林下照片當背景（旱地林＝塔帕若斯，淹水林＝伊蘭杜巴）。兩張都不是拍到動物的照片；動物照片卡是各物種自己的野外照片（拍攝地見上表），大小未依比例；背景照片裡並沒有拍到這些動物。
 - 地球上的兩個場景入口標在**公開地名的中心點，不是拍攝點**：塔帕若斯國家森林（Wikidata Q6972769）、伊蘭杜巴市中心（Wikipedia）。座標只寫在程式內的明確白名單 `lib/place-centers.ts`；CREDITS 已不含座標，`npm run check:out` 會讓 out/ 裡任何不在白名單上的十進位座標失敗。
 - 標記 location_sensitivity 的照片（美洲豹、箭毒蛙、鳳梨科葉心積水）只寫到省／保護區層級。
 - 不在這兩張巴西場景照片範圍內的物種（目前是箭毒蛙）不放進照片，改為場景外的圓形標示；標示文字取講師卡片的 `scene_note`。
@@ -50,7 +50,7 @@
 ## 資料
 - `content/realms.json`：生物地理界節點（只有新熱帶界有內容，其他標「尚未建置」）。
 - `content/amazon-route-sample.json`：學術講師權威的卡片，build 前從 `/workspace/cosmic-atlas-content/` 原樣複製。
-- `content/scene-layout.json`：場景子視圖、立牌擺放位置與顯示大小，示意，非實際比例。
+- `content/scene-layout.json`：場景子視圖、照片卡版面與顯示大小，大小未依比例。
 
 ## 程式套件（npm）
 next、react、react-dom、three、@react-three/fiber、@react-three/drei、tailwindcss（MIT）；puppeteer-core、typescript（Apache-2.0）。
