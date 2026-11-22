@@ -31,6 +31,13 @@
 - 不在這兩張巴西場景照片範圍內的物種（目前是箭毒蛙）不放進照片，改為場景外的圓形標示；標示文字取講師卡片的 `scene_note`。
 - 切葉蟻共生菌照片拍攝於哥斯大黎加，不在亞馬遜；卡片上照實標示。
 
+### 姓名標示（CC BY）
+- 姓名標示（CC BY 4.0）：(c) Vincent A. Vos, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Claude Kolwelter, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Reid Hardin, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Zac Peterson, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Laia Gaitán-Botero, some rights reserved (CC BY)
+
 ### 仍是「示意」佔位
 
 
