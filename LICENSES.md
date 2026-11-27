@@ -42,6 +42,7 @@
 | pongo-pygmaeus | `public/assets/danum/pongo-pygmaeus-morio.jpg` | https://www.inaturalist.org/photos/618954727<br>觀察紀錄 https://www.inaturalist.org/observations/340155373 | Kai Squires | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 京那巴當岸（非丹濃谷保護區內） |
 | buceros-rhinoceros | `public/assets/danum/buceros-rhinoceros.jpg` | https://www.inaturalist.org/photos/47611293<br>觀察紀錄 https://www.inaturalist.org/observations/30473537 | datadan | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 京那巴當岸（非丹濃谷保護區內） |
 | rafflesia-keithii | `public/assets/danum/rafflesia-keithii.jpg` | https://www.inaturalist.org/photos/19011058<br>觀察紀錄 https://www.inaturalist.org/observations/13057349 | desertnaturalist | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 沙巴 |
+| shorea-leprosula | `public/assets/danum/shorea-leprosula.jpg` | https://www.inaturalist.org/photos/484078002<br>觀察紀錄 https://www.inaturalist.org/observations/269256999 | Adam Kamal | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 馬來西亞 |
 | 塔帕若斯國家森林林下（terra） | `public/assets/scene/amazon-tapajos-understory-nasa-desktop-4096.jpg`<br>`public/assets/scene/amazon-tapajos-understory-nasa-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:Amazon_Lidar_-_42755097751.jpg | NASA/Veronika Leitold (NASA Goddard Space Flight Center) | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | 桌機版維持原尺寸 2976×3968、重新壓縮 JPEG（品質 86）；手機版縮成 1536×2048；顏色未改（CREDITS: None） | 巴西 帕拉州 塔帕若斯國家森林（Tapajós National Forest），旱地林（terra firme）林下；畫面中的人是研究人員 |
 | 淹水林林下（伊蘭杜巴）（flooded） | `public/assets/scene/amazon-floodedforest-iranduba-desktop-4096.jpg`<br>`public/assets/scene/amazon-floodedforest-iranduba-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:Floresta_inundada_iranduba_amazonas_-_panoramio_(11).jpg | James Martins | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | 桌機版由 2912×4368 縮成 2731×4096；手機版縮成 1365×2048；JPEG 品質 86；顏色未改（CREDITS: None） | 巴西 亞馬遜州 伊蘭杜巴（Iranduba）的淹水林（Manaus 附近）；不是 360° 全景 |
 | 地球雲層（earth-clouds） | `public/assets/earth/clouds-2k.jpg` | https://visibleearth.nasa.gov/images/57747/blue-marble-clouds | NASA Goddard Space Flight Center; Reto Stöckli; enhancements Robert Simmon | NASA media (no US copyright) (https://www.nasa.gov/nasa-brand-center/images-and-media/) | 未修改（2001–2002 資料合成，不是即時天氣）（CREDITS: None） | Global composite, data 2001-2002; not live weather. Original eoimages URL unreachable from here; fetched from the Wayback copy, sha256 daddaad8…c793 matches the published original. |
@@ -96,6 +97,7 @@
 - 姓名標示（CC BY 4.0）：(c) Kai Squires, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) datadan, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) desertnaturalist, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Adam Kamal, some rights reserved (CC BY)
 
 ### 仍是「示意」佔位
 
