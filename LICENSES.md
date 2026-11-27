@@ -34,6 +34,11 @@
 | colobanthus-quitensis | `public/assets/polar/colobanthus-quitensis-photo.jpg` | https://www.inaturalist.org/photos/181386948<br>觀察紀錄 https://www.inaturalist.org/observations/105934806 | steve b (stevestevens) | CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | 未修改（顏色未改）（CREDITS: None; colours unchanged） | 南極 南雪特蘭群島 |
 | aptenodytes-forsteri | `public/assets/polar/aptenodytes-forsteri-photo.jpg` | https://www.inaturalist.org/photos/2912286<br>觀察紀錄 https://www.inaturalist.org/observations/2606935 | John Barkla (john_barkla) | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未修改（顏色未改）（CREDITS: None; colours unchanged） | 東南極（不是南極半島） |
 | chaetoceros-socialis | `public/assets/micro/chaetoceros-socialis-southern-ocean.jpg` | https://www.inaturalist.org/photos/613384442<br>觀察紀錄 https://www.inaturalist.org/observations/337419535 | Ingvild Riska (ingvildriska) | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未修改（顏色未改）（CREDITS: None; colours unchanged） | 南極半島 Gerlache 海峽一帶（南大洋浮游生物樣本） |
+| ursus-thibetanus-formosanus | `public/assets/indomalaya/ursus-thibetanus-formosanus.jpg` | https://data.gov.tw/dataset/175902 | 內政部國家公園署 | OGDL 1.0 (https://data.gov.tw/license) | 裁掉底部相機資料條，其餘未修改，未調色。（CREDITS: 裁掉底部相機資料條，其餘未修改，未調色。） | 玉山國家公園 |
+| trochalopteron-morrisonianum | `public/assets/indomalaya/trochalopteron-morrisonianum.jpg` | https://www.inaturalist.org/photos/5623837<br>觀察紀錄 https://www.inaturalist.org/observations/4645280 | avocat | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 玉山國家公園 |
+| syrmaticus-mikado | `public/assets/indomalaya/syrmaticus-mikado.jpg` | https://www.inaturalist.org/photos/430248651<br>觀察紀錄 https://www.inaturalist.org/observations/241412074 | Licheng Shih | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 臺灣 |
+| macaca-cyclopis | `public/assets/indomalaya/macaca-cyclopis.jpg` | https://www.inaturalist.org/photos/558327909<br>觀察紀錄 https://www.inaturalist.org/observations/309412133 | Yung-Lun Lin | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 南投鹿谷（非玉山國家公園內） |
+| chamaecyparis-formosensis | `public/assets/indomalaya/chamaecyparis-formosensis.jpeg` | https://www.inaturalist.org/photos/22125500<br>觀察紀錄 https://www.inaturalist.org/observations/14820841 | Cheng-Te Hsu | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 臺灣 |
 | 塔帕若斯國家森林林下（terra） | `public/assets/scene/amazon-tapajos-understory-nasa-desktop-4096.jpg`<br>`public/assets/scene/amazon-tapajos-understory-nasa-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:Amazon_Lidar_-_42755097751.jpg | NASA/Veronika Leitold (NASA Goddard Space Flight Center) | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | 桌機版維持原尺寸 2976×3968、重新壓縮 JPEG（品質 86）；手機版縮成 1536×2048；顏色未改（CREDITS: None） | 巴西 帕拉州 塔帕若斯國家森林（Tapajós National Forest），旱地林（terra firme）林下；畫面中的人是研究人員 |
 | 淹水林林下（伊蘭杜巴）（flooded） | `public/assets/scene/amazon-floodedforest-iranduba-desktop-4096.jpg`<br>`public/assets/scene/amazon-floodedforest-iranduba-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:Floresta_inundada_iranduba_amazonas_-_panoramio_(11).jpg | James Martins | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | 桌機版由 2912×4368 縮成 2731×4096；手機版縮成 1365×2048；JPEG 品質 86；顏色未改（CREDITS: None） | 巴西 亞馬遜州 伊蘭杜巴（Iranduba）的淹水林（Manaus 附近）；不是 360° 全景 |
 | 地球雲層（earth-clouds） | `public/assets/earth/clouds-2k.jpg` | https://visibleearth.nasa.gov/images/57747/blue-marble-clouds | NASA Goddard Space Flight Center; Reto Stöckli; enhancements Robert Simmon | NASA media (no US copyright) (https://www.nasa.gov/nasa-brand-center/images-and-media/) | 未修改（2001–2002 資料合成，不是即時天氣）（CREDITS: None） | Global composite, data 2001-2002; not live weather. Original eoimages URL unreachable from here; fetched from the Wayback copy, sha256 daddaad8…c793 matches the published original. |
@@ -41,6 +46,7 @@
 | 海冰範圍（earth-seaice） | `public/assets/earth/seaice-2025-08.png` | https://doi.org/10.7265/a98x-0f50 | Fetterer, F., Knowles, K., Meier, W. N., Savoie, M., Windnagel, A. K. & Stafford, T. (2025) | NSIDC data use policy: free to use with citation (https://nsidc.org/about/data-use-and-citation) | 由 25 公里極地立體投影網格重新投影為 4096×2048 等距圓柱紋理；邊緣透明度依原 25 公里網格上的距離在 ±1 格內平滑；陸地與海岸為透明；未新增海冰、未手修邊緣；顯示時套用顏色 #F0F2F3、透明度百分之七十二（CREDITS: Reprojected from the 25 km polar stereographic grids to a 4096x2048 equirectangular texture; edge alpha smoothed over +/-1 grid cell using distance computed on the original 25 km grid; land and coast transparent; no ice added and edges not hand-edited; colour #F0F2F3 and opacity 0.72 applied at display） | 全球，2025 年 8 月月平均海冰範圍 |
 | svalbard（svalbard） | `public/assets/scene/svalbard-bjorndalen.jpg`<br>`public/assets/scene/svalbard-bjorndalen-mobile-3072.jpg` | https://commons.wikimedia.org/wiki/File%3ABj%C3%B8rndalen_from_coastline.jpg | HAF 932 | CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) | 美術監督由 8825×2822 縮成 3840×1228、移除中繼資料（含 GPS）；手機版再縮成 3072×982；顏色未改（CREDITS: Downscaled from 8825x2822 to 3840x1228; colours unchanged; metadata (incl. any GPS) removed） | 挪威 斯瓦爾巴 Isfjorden 峽灣的 Bjørndalen 谷口（夏季苔原） |
 | peninsula（peninsula） | `public/assets/scene/antarctic-neko-harbour.jpg`<br>`public/assets/scene/antarctic-neko-harbour-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File%3ANeko_Harbour_Glacier_Antarctica_%2840371721363%29.jpg | Gary Bembridge from London, UK | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) | 美術監督由 5124×3416 縮成 3840×2560、移除中繼資料（含 GPS）；手機版再縮成 2048×1365；顏色未改（CREDITS: Downscaled from 5124x3416 to 3840x2560; colours unchanged; metadata (incl. any GPS) removed） | 南極半島西岸 Andvord 灣的 Neko Harbour |
+| yushan（yushan） | `public/assets/scene/yushan-bg.jpg`<br>`public/assets/scene/yushan-bg-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:塔塔加夫妻神木_-_Tataka_Couple_Trees_-_2012.02_-_panoramio.jpg | rheins | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | 以不重編碼方式移除 EXIF 中繼資料（相機型號與拍攝時間；原檔不含 GPS）；未裁切、未調色，桌機版維持 2787×2090；手機版再縮成 2048×1536。（CREDITS: Removed EXIF metadata only (camera make/model and date-time; no GPS was present) by dropping the JPEG APP1 segment without requantising; not cropped, not colour-edited; pixel size unchanged at 2787×2090.） | 玉山國家公園 |
 | 亞馬遜區域貼圖（第 2 層） | `public/textures/amazon_bmng_200408_crop.jpg` (1920×1440) | 同地球貼圖系列（August 2004）原檔 https://assets.science.nasa.gov/content/dam/science/esd/eo/images/bmng/bmng-topography-bathymetry/august/world.topo.bathy.200408.3x21600x10800.jpg | NASA Earth Observatory（製作者 Reto Stöckli） | NASA 影像使用指引（不受美國著作權保護），署名「NASA Earth Observatory」 | 由工程裁切 76°W–44°W、8°N–16°S；顏色未改 | — |
 | 網站圖示 | `public/favicon.ico` | 本專案程式繪製 | — | 原創 | — | — |
 
@@ -51,6 +57,7 @@
 - 不在這兩張巴西場景照片範圍內的物種（目前是箭毒蛙）不放進照片，改為場景外的圓形標示；標示文字取講師卡片的 `scene_note`。
 - 切葉蟻共生菌照片拍攝於哥斯大黎加，不在亞馬遜；卡片上照實標示。
 - 極地區域（斯瓦爾巴、南極半島）：地球上的標記是**整數度的大略位置，不是拍攝點**；此處只有全球底圖，縮放停在全球底圖的最高解析度後換成地面實拍照片。物種照片板是各物種自己的照片，未依比例；不在場景照片範圍內的物種改為場景外的圓形標示（文字取講師卡片的 `scene_note`）。
+- 印度馬來界（玉山國家公園）：地球上的標記是**公開地名的中心點，不是拍攝點**（座標只寫在 `lib/place-centers.ts`）；此處只有全球底圖。玉山國家公園已有地面實拍照片與物種卡（拍攝地見上表）；場景尺度待查證。
 - Fetterer, F., Knowles, K., Meier, W. N., Savoie, M., Windnagel, A. K. & Stafford, T. (2025). Sea Ice Index (G02135, Version 4). NSIDC. https://doi.org/10.7265/a98x-0f50，2025 年 8 月月平均海冰範圍，重新投影疊在地球上。
 - 白色（淺灰白）表示海冰密集度 ≥15%（不代表整片實心冰面）。
 - 海冰範圍：NSIDC Sea Ice Index 2025 年 8 月月平均；極點小範圍為衛星觀測空缺，NSIDC 視為有冰。
@@ -58,8 +65,9 @@
 - 邊緣依 25 公里網格做平滑透明度，不是在圖上手修的。
 - 雲層在極點附近 16 度漸淡，不是實際雲況。
 
-### 姓名標示（CC BY）
+### 姓名標示（CC BY / OGDL）
 - 姓名標示（CC BY 2.0）：Gary Bembridge from London, UK, CC BY 2.0, via Wikimedia Commons
+- 姓名標示（CC BY 3.0）：rheins, CC BY 3.0, via Wikimedia Commons
 - 姓名標示（CC BY 4.0）：(c) Vincent A. Vos, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) Claude Kolwelter, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) Reid Hardin, some rights reserved (CC BY)
@@ -75,6 +83,11 @@
 - 姓名標示（CC BY 4.0）：(c) Ingvild Riska, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) Erasmo Macaya Horta, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) John Barkla, some rights reserved (CC BY)
+- 姓名標示（OGDL 1.0，與 CC BY 4.0 相容）：內政部國家公園署（2025）。「108-110年度鳥瞰臺灣黑熊：玉山國家公園臺灣黑熊人造衛星追蹤暨生態監測計畫案」成果報告，附錄三第 167 頁。此開放資料依政府資料開放授權條款（Open Government Data License）進行公眾釋出，使用者於遵守本條款各項規定之前提下，得利用之。授權條款：https://data.gov.tw/license 。資料集：https://data.gov.tw/dataset/175902
+- 姓名標示（CC BY 4.0）：(c) avocat, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Licheng Shih, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Yung-Lun Lin, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Cheng-Te Hsu, some rights reserved (CC BY)
 
 ### 仍是「示意」佔位
 
