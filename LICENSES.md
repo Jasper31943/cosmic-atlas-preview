@@ -43,6 +43,13 @@
 | buceros-rhinoceros | `public/assets/danum/buceros-rhinoceros.jpg` | https://www.inaturalist.org/photos/47611293<br>觀察紀錄 https://www.inaturalist.org/observations/30473537 | datadan | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 京那巴當岸（非丹濃谷保護區內） |
 | rafflesia-keithii | `public/assets/danum/rafflesia-keithii.jpg` | https://www.inaturalist.org/photos/19011058<br>觀察紀錄 https://www.inaturalist.org/observations/13057349 | desertnaturalist | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 沙巴 |
 | shorea-leprosula | `public/assets/danum/shorea-leprosula.jpg` | https://www.inaturalist.org/photos/484078002<br>觀察紀錄 https://www.inaturalist.org/observations/269256999 | Adam Kamal | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 馬來西亞 |
+| connochaetes-taurinus | `public/assets/serengeti/connochaetes-taurinus.jpg` | https://www.inaturalist.org/photos/292306115<br>觀察紀錄 https://www.inaturalist.org/observations/168649114 | Dirk Froebel | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 坦尚尼亞塞倫蓋蒂縣 |
+| equus-quagga | `public/assets/serengeti/equus-quagga.jpg` | https://www.inaturalist.org/photos/50371107<br>觀察紀錄 https://www.inaturalist.org/observations/32134756 | Seig | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 坦尚尼亞 |
+| giraffa-camelopardalis-tippelskirchi | `public/assets/serengeti/giraffa-camelopardalis-tippelskirchi.jpg` | https://www.inaturalist.org/photos/505835643<br>觀察紀錄 https://www.inaturalist.org/observations/281582749 | Tristan Jobin | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 坦尚尼亞 |
+| loxodonta-africana | `public/assets/serengeti/loxodonta-africana.jpg` | https://www.inaturalist.org/photos/499679119<br>觀察紀錄 https://www.inaturalist.org/observations/278282900 | carol5126 | CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 坦尚尼亞 |
+| panthera-leo | `public/assets/serengeti/panthera-leo.jpg` | https://www.inaturalist.org/photos/485904747<br>觀察紀錄 https://www.inaturalist.org/observations/270205165 | Tim | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 坦尚尼亞 |
+| balearica-regulorum | `public/assets/serengeti/balearica-regulorum.jpg` | https://www.inaturalist.org/photos/52326979<br>觀察紀錄 https://www.inaturalist.org/observations/33322987 | Seig | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 坦尚尼亞塞倫蓋蒂國家公園 |
+| vachellia-tortilis | `public/assets/serengeti/vachellia-tortilis.jpg` | https://www.inaturalist.org/photos/21086300<br>觀察紀錄 https://www.inaturalist.org/observations/14214644 | avocat | CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) | 未裁切、未調色、未縮放。（CREDITS: 未裁切、未調色、未縮放。） | 坦尚尼亞塞倫蓋蒂國家公園 |
 | 塔帕若斯國家森林林下（terra） | `public/assets/scene/amazon-tapajos-understory-nasa-desktop-4096.jpg`<br>`public/assets/scene/amazon-tapajos-understory-nasa-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:Amazon_Lidar_-_42755097751.jpg | NASA/Veronika Leitold (NASA Goddard Space Flight Center) | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | 桌機版維持原尺寸 2976×3968、重新壓縮 JPEG（品質 86）；手機版縮成 1536×2048；顏色未改（CREDITS: None） | 巴西 帕拉州 塔帕若斯國家森林（Tapajós National Forest），旱地林（terra firme）林下；畫面中的人是研究人員 |
 | 淹水林林下（伊蘭杜巴）（flooded） | `public/assets/scene/amazon-floodedforest-iranduba-desktop-4096.jpg`<br>`public/assets/scene/amazon-floodedforest-iranduba-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:Floresta_inundada_iranduba_amazonas_-_panoramio_(11).jpg | James Martins | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | 桌機版由 2912×4368 縮成 2731×4096；手機版縮成 1365×2048；JPEG 品質 86；顏色未改（CREDITS: None） | 巴西 亞馬遜州 伊蘭杜巴（Iranduba）的淹水林（Manaus 附近）；不是 360° 全景 |
 | 地球雲層（earth-clouds） | `public/assets/earth/clouds-2k.jpg` | https://visibleearth.nasa.gov/images/57747/blue-marble-clouds | NASA Goddard Space Flight Center; Reto Stöckli; enhancements Robert Simmon | NASA media (no US copyright) (https://www.nasa.gov/nasa-brand-center/images-and-media/) | 未修改（2001–2002 資料合成，不是即時天氣）（CREDITS: None） | Global composite, data 2001-2002; not live weather. Original eoimages URL unreachable from here; fetched from the Wayback copy, sha256 daddaad8…c793 matches the published original. |
@@ -52,6 +59,7 @@
 | peninsula（peninsula） | `public/assets/scene/antarctic-neko-harbour.jpg`<br>`public/assets/scene/antarctic-neko-harbour-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File%3ANeko_Harbour_Glacier_Antarctica_%2840371721363%29.jpg | Gary Bembridge from London, UK | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) | 由 5124×3416 縮成 3840×2560、移除中繼資料（含 GPS）；手機版再縮成 2048×1365；顏色未改（CREDITS: Downscaled from 5124x3416 to 3840x2560; colours unchanged; metadata (incl. any GPS) removed） | 南極半島西岸 Andvord 灣的 Neko Harbour |
 | danum（danum） | `public/assets/scene/danum-bg.jpg`<br>`public/assets/scene/danum-bg-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:Morning_fog_over_Danum_Valley_(27329938517).jpg | Christopher Michel | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | 以不重編碼方式移除全部 JPEG 中繼資料（EXIF／XMP／IPTC，含 GPS）；未裁切、未調色，桌機版維持 4056×2704；手機版再縮成 2048 長邊。（CREDITS: Removed all JPEG metadata (EXIF, XMP, IPTC, including GPS and DJI lat/lon) by dropping APP/COM segments without requantising; not cropped, not colour-edited; pixel size unchanged at 4056×2704. Mobile version resized to 2048 on the long edge.） | 丹濃谷保護區 |
 | yushan（yushan） | `public/assets/scene/yushan-bg.jpg`<br>`public/assets/scene/yushan-bg-mobile-2048.jpg` | https://commons.wikimedia.org/wiki/File:塔塔加夫妻神木_-_Tataka_Couple_Trees_-_2012.02_-_panoramio.jpg | rheins | CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/) | 以不重編碼方式移除 EXIF 中繼資料（相機型號與拍攝時間；原檔不含 GPS）；未裁切、未調色，桌機版維持 2787×2090；手機版再縮成 2048×1536。（CREDITS: Removed EXIF metadata only (camera make/model and date-time; no GPS was present) by dropping the JPEG APP1 segment without requantising; not cropped, not colour-edited; pixel size unchanged at 2787×2090.） | 玉山國家公園 |
+| serengeti（serengeti） | `public/assets/scene/serengeti-bg.jpg`<br>`public/assets/scene/serengeti-bg-mobile.jpg` | https://commons.wikimedia.org/wiki/File:Serengeti_landscape_(2)_(28014235724).jpg | Richard Mortel | CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/) | 以不重編碼方式移除 EXIF GPS（原檔含 GPS）；未裁切、未調色，桌機版維持 6000×4000；手機版再縮成 2048 長邊（2048×1365），亦不含 GPS。（CREDITS: Removed EXIF GPS losslessly (exiftool -GPS:all=) without requantising; not cropped, not colour-edited; pixel size unchanged at 6000×4000. Mobile version resized to 2048 on the long edge (2048×1365), also without GPS. Flickr source: https://www.flickr.com/photos/prof_richard/28014235724/） | 塞倫蓋蒂國家公園 |
 | 亞馬遜區域貼圖（第 2 層） | `public/textures/amazon_bmng_200408_crop.jpg` (1920×1440) | 同地球貼圖系列（August 2004）原檔 https://assets.science.nasa.gov/content/dam/science/esd/eo/images/bmng/bmng-topography-bathymetry/august/world.topo.bathy.200408.3x21600x10800.jpg | NASA Earth Observatory（製作者 Reto Stöckli） | NASA 影像使用指引（不受美國著作權保護），署名「NASA Earth Observatory」 | 由工程裁切 76°W–44°W、8°N–16°S；顏色未改 | — |
 | 網站圖示 | `public/favicon.ico` | 本專案程式繪製 | — | 原創 | — | — |
 
@@ -63,6 +71,7 @@
 - 切葉蟻共生菌照片拍攝於哥斯大黎加，不在亞馬遜；卡片上照實標示。
 - 極地區域（斯瓦爾巴、南極半島）：地球上的標記是**整數度的大略位置，不是拍攝點**；此處只有全球底圖，縮放停在全球底圖的最高解析度後換成地面實拍照片。物種照片板是各物種自己的照片，未依比例；不在場景照片範圍內的物種改為場景外的圓形標示（文字取講師卡片的 `scene_note`）。
 - 印度馬來界（丹濃谷、玉山國家公園）：地球上的標記是**公開地名的中心點，不是拍攝點**（座標只寫在 `lib/place-centers.ts`）；此處只有全球底圖。玉山國家公園已有地面實拍照片與物種卡（拍攝地見上表）；場景尺度待查證。丹濃谷場景仍是骨架，地面照片與物種內容待補。
+- 其他區域（塞倫蓋蒂國家公園）。
 - Fetterer, F., Knowles, K., Meier, W. N., Savoie, M., Windnagel, A. K. & Stafford, T. (2025). Sea Ice Index (G02135, Version 4). NSIDC. https://doi.org/10.7265/a98x-0f50，2025 年 8 月月平均海冰範圍，重新投影疊在地球上。
 - 白色（淺灰白）表示海冰密集度 ≥15%（不代表整片實心冰面）。
 - 海冰範圍：NSIDC Sea Ice Index 2025 年 8 月月平均；極點小範圍為衛星觀測空缺，NSIDC 視為有冰。
@@ -74,6 +83,7 @@
 - 姓名標示（CC BY 2.0）：Gary Bembridge from London, UK, CC BY 2.0, via Wikimedia Commons
 - 姓名標示（CC BY 2.0）：Christopher Michel, CC BY 2.0, via Wikimedia Commons
 - 姓名標示（CC BY 3.0）：rheins, CC BY 3.0, via Wikimedia Commons
+- 姓名標示（CC BY 2.0）：Richard Mortel, CC BY 2.0, via Wikimedia Commons
 - 姓名標示（CC BY 4.0）：(c) Vincent A. Vos, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) Claude Kolwelter, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) Reid Hardin, some rights reserved (CC BY)
@@ -98,6 +108,10 @@
 - 姓名標示（CC BY 4.0）：(c) datadan, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) desertnaturalist, some rights reserved (CC BY)
 - 姓名標示（CC BY 4.0）：(c) Adam Kamal, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Dirk Froebel, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Seig, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Tristan Jobin, some rights reserved (CC BY)
+- 姓名標示（CC BY 4.0）：(c) Tim, some rights reserved (CC BY)
 
 ### 仍是「示意」佔位
 
